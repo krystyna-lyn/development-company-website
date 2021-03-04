@@ -1,0 +1,14 @@
+ h1{
+    position: absolute;
+    top:-700px;
+    margin-left: 5px;
+    color: #373534;
+    text-transform: uppercase;
+    text-decoration-style: wavy;
+  }
+  h5{
+    position: absolute;
+    top:-600px;
+    color: #373534;
+    margin-left: 5px;
+  }
